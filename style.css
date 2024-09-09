@@ -1,0 +1,52 @@
+.nav-header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 40px;
+}
+.nav-header ul li{
+    list-style-type: none;
+}
+.btn{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+}
+.btn-section{
+    display: flex;
+    align-items: center;
+}
+.anishna{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 500px;
+    background-color: blue;
+}
+.about-us{
+    display: flex;
+    justify-content: center;
+}
+.txt{
+    align-items:center
+}
+h6 {
+    color: blue;
+  }
+  p {
+    color: grey;
+  }
+  .text-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
